@@ -9,8 +9,8 @@
 | Tuesday 11/6 |  9:00-10:30 | 005 | Integrators | Mark Tuckerman |
 |            | 11:00-12:30 | 005 | Introduction to numerical methods | Giovanni Bussi |
 |            | 14:00-18:00 | 003 | Lab | |
-| Wednesday 12/6 |  9:00-10:30 | 005 | Estimating errors | Alessandro Laio |
-|            | 11:00-12:30 | 005 | Force fields | Giovanni Bussi |
+| Wednesday 12/6 | 9:00-10:30 | 005 | Force fields | Giovanni Bussi |
+|            |  11:00-12:30 | 005 | Estimating errors | Alessandro Laio |
 |            | 14:00-15:00 | 005 | Seminar | Mark Tuckerman |
 |            | 15:00-18:00 | 003 | Lab | |
 | Thursday 13/6 |  9:00-10:30 | 005 | Constraints | Giovanni Bussi |
