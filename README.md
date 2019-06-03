@@ -40,4 +40,4 @@
 |            | 15:00-18:00 | 003 | Lab - Go-models| Cristian Micheletti and Gianluca Lattanzi |
 | Friday 21/6 |  9:00-10:30 | 005 | Transition path sampling | Alessando Laio |
 |            | 11:00-12:00 | 005 | Seminar | Andrew White |
-|            | 14:00-18:00 | 003 | Lab - transition path sampling| Giovanni Bussi and Nicola Calonaci|
+|            | 14:00-18:00 | 003 | Lab - transition path sampling and/or finish previous exercises | Giovanni Bussi and Nicola Calonaci|
