@@ -3,11 +3,11 @@
 ## First week
 | Day | Time | Room | Topic | Lecturer |
 |-----|------|------|-------|----------|
-| Monday 10/6 |  9:00-10:30 | 005 | Introduction to numerical methods | Giovanni Bussi |
+| Monday 10/6 |  9:00-10:30 | 005 | Scripting with AWK | Giovanni Bussi |
 |            | 11:00-12:30 | 005 | Integrators | Mark Tuckerman |
 |            | 14:00-18:00 | 003 | Lab | Francesca Cuturello and Stefano Franzini|
 | Tuesday 11/6 |  9:00-10:30 | 005 | Integrators | Mark Tuckerman |
-|            | 11:00-12:30 | 005 | Introduction to numerical methods | Giovanni Bussi |
+|            | 11:00-12:30 | 005 | Introduction C++ | Giovanni Bussi |
 |            | 14:00-18:00 | 003 | Lab | Matteo Carli and Francesca Cuturello |
 | Wednesday 12/6 | 9:00-10:30 | 005 | Force fields | Giovanni Bussi |
 |            |  11:00-12:30 | 005 | Estimating errors | Alessandro Laio |
