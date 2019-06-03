@@ -27,7 +27,7 @@
 | Tuesday 18/6 |  9:00-10:30 | 005 | Electrostatics in solution | Ali Hassanali |
 |            | 11:00-12:30 | 005 | Free energy and enhanced sampling | Alessandro Laio |
 |            | 14:00-15:00 | 005 | Seminar | Ali Hassanali |
-|            | 14:00-18:00 | 003 | Lab - free energy calculations| Ali Hassanali |
+|            | 14:00-18:00 | 003 | Lab - free energy calculations| Ali Hassanali, Nawaz Qaisrani and Adu Offei Danso |
 | Wednesday 19/6 |  9:00-10:30 | 005 | Polymers | Angelo Rosa |
 |            | 11:00-12:30 | 005 | Polymers | Angelo Rosa |
 |            | 14:00-15:00 | 005 | Seminar | Angelo Rosa |
