@@ -38,6 +38,6 @@
 |            | 11:00-12:30 | 005 | Go-models | Gianluca Lattanzi |
 |            | 14:00-15:00 | 005 | Seminar | Gianluca Lattanzi |
 |            | 15:00-18:00 | 003 | Lab | |
-| Thursday 20/6 |  9:00-10:30 | 005 | Transition path sampling | Alessando Laio |
+| Friday 21/6 |  9:00-10:30 | 005 | Transition path sampling | Alessando Laio |
 |            | 11:00-12:00 | 005 | Seminar | Andrew White |
 |            | 14:00-18:00 | 003 | Lab | |
