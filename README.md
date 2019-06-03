@@ -25,7 +25,7 @@
 |-----|------|------|-------|----------|
 | Monday 17/6 |  9:00-10:30 | 005 | Free energy and enhanced sampling | Alessandro Laio |
 |            | 11:00-12:30 | 005 | Electrostatics in solution | Ali Hassanali |
-|            | 14:00-18:00 | 003 | Lab - free energy calculations | |
+|            | 14:00-18:00 | 003 | Lab - radial distribution function | |
 | Tuesday 18/6 |  9:00-10:30 | 005 | Electrostatics in solution | Ali Hassanali |
 |            | 11:00-12:30 | 005 | Free energy and enhanced sampling | Alessandro Laio |
 |            | 14:00-15:00 | 005 | Seminar | Ali Hassanali |
