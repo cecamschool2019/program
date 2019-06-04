@@ -3,7 +3,7 @@
 |-----|------|------|-------|----------|
 | Monday 10/6 |  9:00-10:30 | 005 | Scripting with AWK | Giovanni Bussi |
 |            | 11:00-12:30 | 005 | Integrators | Mark Tuckerman |
-|            | 14:00-18:00 | 003 | Lab - scripting | Francesca Cuturello and Stefano Franzini|
+|            | 14:00-18:00 | 003 | Lab - scripting | Francesca Cuturello and Giulia Sormani|
 | Tuesday 11/6 |  9:00-10:30 | 005 | Integrators | Mark Tuckerman |
 |            | 11:00-12:30 | 005 | Introduction C++ | Giovanni Bussi |
 |            | 14:00-18:00 | 003 | Lab - histograms and interpolations | Matteo Carli and Francesca Cuturello |
@@ -13,10 +13,10 @@
 |            | 15:00-18:00 | 003 | Lab - simulations with simpleMD | Giovanni Bussi|
 | Thursday 13/6 |  9:00-10:30 | 005 | Constraints | Giovanni Bussi |
 |            | 11:00-12:30 | 005 | Thermostats/Barostats| Mark Tuckerman |
-|            | 14:00-18:00 | 003 | Lab - visualization of trajectories, average and error of observables  |  Stefano Franzini and Giulia Sormani |
+|            | 14:00-18:00 | 003 | Lab - visualization of trajectories, average and error of observables  |  Giulia Sormani and Stefano Franzini |
 | Friday 14/6 |  9:00-10:30 | 005 | Ewald and long range corrections | Mark Tuckerman |
 |            | 11:00-12:30 | 005 | Dimensional reduction | Alessandro Laio |
-|            | 14:00-18:00 | 003 | Lab - melting, solidification, and hysteresis | Giulia Sormani and Matteo Carli |
+|            | 14:00-18:00 | 003 | Lab - melting, solidification, and hysteresis | Stefano Franzini and Matteo Carli |
 
 ## Second week
 | Day | Time | Room | Topic | Lecturer |
