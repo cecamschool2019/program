@@ -14,7 +14,7 @@
 | Thursday 13/6 |  9:00-10:30 | 005 | Constraints | Giovanni Bussi |
 |            | 11:00-12:30 | 005 | Thermostats/Barostats| Mark Tuckerman |
 |            | 14:00-18:00 | 003 | Lab - visualization of trajectories, average and error of observables  |  Giulia Sormani and Stefano Franzini |
-| Friday 14/6 |  9:00-10:30 | 005 | Ewald and long range corrections | Mark Tuckerman |
+| Friday 14/6 |  8:30-10:30 | 005 | Ewald and long range corrections | Mark Tuckerman |
 |            | 11:00-12:30 | 005 | Dimensional reduction | Alessandro Laio |
 |            | 14:00-18:00 | 003 | Lab - melting, solidification, and hysteresis | Stefano Franzini and Matteo Carli |
 
